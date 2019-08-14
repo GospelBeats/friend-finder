@@ -1,6 +1,6 @@
 ## Friend Finder APP
 
-![APP Sreenshot](https://raw.githubusercontent.com/GospelBeats/friend-finder-app/master/app-ss.PNG)
+![APP Sreenshot](https://github.com/GospelBeats/friend-finder/blob/master/app-ss.JPG)
 
 
 ###### Technologies
